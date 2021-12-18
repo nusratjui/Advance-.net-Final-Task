@@ -1,0 +1,2 @@
+F:\9th semester-15\Dot net\LAB\Task\Newsportal\BBL\obj\Debug\BBL.csprojAssemblyReference.cache
+F:\9th semester-15\Dot net\LAB\Task\Newsportal\BBL\obj\Debug\BBL.csproj.CoreCompileInputs.cache

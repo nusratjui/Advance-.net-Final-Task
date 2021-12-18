@@ -1,0 +1,6 @@
+F:\9th semester-15\Dot net\LAB\Task\Newsportal\BEL\bin\Debug\BEL.dll
+F:\9th semester-15\Dot net\LAB\Task\Newsportal\BEL\bin\Debug\BEL.pdb
+F:\9th semester-15\Dot net\LAB\Task\Newsportal\BEL\obj\Debug\BEL.csprojAssemblyReference.cache
+F:\9th semester-15\Dot net\LAB\Task\Newsportal\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+F:\9th semester-15\Dot net\LAB\Task\Newsportal\BEL\obj\Debug\BEL.dll
+F:\9th semester-15\Dot net\LAB\Task\Newsportal\BEL\obj\Debug\BEL.pdb

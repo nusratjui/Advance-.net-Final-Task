@@ -1,0 +1,2 @@
+F:\9th semester-15\Dot net\LAB\Task\Newsportal\Newsportal\obj\Debug\Newsportal.csprojAssemblyReference.cache
+F:\9th semester-15\Dot net\LAB\Task\Newsportal\Newsportal\obj\Debug\Newsportal.csproj.CoreCompileInputs.cache
