@@ -10,7 +10,7 @@ using DAL;
 
 namespace BBL
 {
-    class NewsService
+   public class NewsService
     {
         public static IEnumerable<NewsModel> GetAllNews()
         {

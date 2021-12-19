@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BEL
 {
-    class UserModel
+   public  class UserModel
     {
         public int Id { get; set; }
 

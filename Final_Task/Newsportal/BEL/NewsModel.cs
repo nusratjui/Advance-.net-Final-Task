@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BEL
 {
-    class NewsModel
+   public class NewsModel
     {
         public int Id { get; set; }
         public string Category { get; set; }

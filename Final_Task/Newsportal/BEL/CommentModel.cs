@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BEL
 {
-    class CommentModel
+   public class CommentModel
     {
         public int Id { get; set; }
         public string CText { get; set; }

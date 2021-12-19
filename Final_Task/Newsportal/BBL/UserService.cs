@@ -11,7 +11,7 @@ using BEL;
 
 namespace BBL
 {
-    class UserService
+    public class UserService
     {
         public static IEnumerable<UserModel> GetAllUser()
         {
